@@ -70,7 +70,7 @@ I believe the best way to learn is by **building and sharing**. This repo is my 
 ## 📬 Get in Touch
 
 - GitHub: [@vhcoding](https://github.com/vhcoding)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vitorhlps/)
+- LinkedIn: [Vitor Hugo Lopes](https://www.linkedin.com/in/vitorhlps/)
 - Portfolio: Coming soon 🚀 – Stay tuned!
 
 ---
